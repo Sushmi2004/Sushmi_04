@@ -23,10 +23,10 @@ I am **Sushmitha V**, student from **Bannari Amman Institute of Technology** pur
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmi2004&theme=dracula)<br>
-![Sushmitha's github stats](https://github-readme-stats.vercel.app/api?username=sushmi2004&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmi2004&theme=dracula)<br>
+![Sushmitha's github stats](https://github-readme-stats.vercel.app/api?username=Sushmi2004&show_icons=true&theme=dracula)
 <br>
 𝗡𝗼𝘁𝗲: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![](https://github-profile-trophy.vercel.app/?username=sushmi2004)]
+[![](https://github-profile-trophy.vercel.app/?username=Sushmi2004)]
 
